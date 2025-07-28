@@ -51,5 +51,4 @@ coverage/
 .env.*
 
 *.tsbuildinfo 
-# Claude project file
-.claude 
+source_claude/ 
